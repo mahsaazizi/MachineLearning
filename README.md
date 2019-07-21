@@ -1,4 +1,4 @@
-# Text Classification Using NLP, SVM, Naive Bayes, Random Forests
+# Text Classification Using NLP, SVM, Naive Bayes, and Random Forests
 In this test, 31 articles with limited sentences are collected from Wikipedia and stored in Excel spreadsheet. The content of articles is about a brief bio for Hollywood actors. The defined theme for articles is being “action” or “non-action” actors.
 
 This data collection can be done using web scraping with BeautifulSoup library that is a python library for pulling data out of HTML and XML files. However, since web scraping is an action that should be carefully done to avoid any destructive effect on the sites being scraped, in this test, a simple way is used for collecting articles.
